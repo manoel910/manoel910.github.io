@@ -1,2 +1,2 @@
-# manoel910.github.io
-meu website
+# manoel.reviews
+Planejo montar um website pessoal. Na primeira versão, usei Tachyons.
