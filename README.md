@@ -1,2 +1,2 @@
-# manoel.reviews
-blog, currículo e caixa de areia
+# Manoel.reviews
+Blog, currículo e caixa de areia. Usando Tachyons.
