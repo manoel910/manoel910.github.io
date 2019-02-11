@@ -4,7 +4,7 @@ title:  "Recém chegados"
 date:   2019-01-26 20:53:25 -0500
 categories: escrita
 author: Manoel Davi Carneiro
-excerpt: Janeiro de 2019. Jean vai, mas eu fico; as grandes jornalistas do Brasil; a inconveniência da liberdade de cátedra; crise da masculinidade; e a minha proposta.
+excerpt: Jean vai, mas eu fico; as grandes jornalistas do Brasil; a inconveniência da liberdade de cátedra; crise da masculinidade; e a minha proposta.
 tags: política, identidade
 ---
 
