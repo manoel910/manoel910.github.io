@@ -41,7 +41,7 @@ No final do primeiro mês do já desastroso governo Bolsonaro, mais um flagrante
 - Juliana de Albuquerque na Folha de São Paulo: [Como o mal-estar na identidade masculina molda a política](https://www1.folha.uol.com.br/ilustrissima/2019/01/como-o-mal-estar-na-identidade-masculina-molda-a-politica-dos-nossos-tempos.shtml)
 - James Kirchick em New York Review of Books: [A Thing for Men in Uniforms](https://www.nybooks.com/daily/2018/05/14/a-thing-for-men-in-uniforms//)
 
-​     ![Veados na Paisagem, de Antoine-Louis Barye entre 1810-75](images/DP805148.jpg) 
+​     ![Veados na Paisagem, de Antoine-Louis Barye entre 1810-75](/images/DP805148.jpg) 
 
 ## Minha própria elaboração
 
