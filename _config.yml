@@ -1,7 +1,7 @@
 title: Manoel Reviews
 email: manoel910@usp.br
 description: >- # this means to ignore newlines until "baseurl:"
-Este é um canteiro vivo. A direção do projeto é dinâmica, mas a construção somente crescente. Sinta-se à vontade para explorar e volte sempre.
+"Este é um canteiro vivo. A direção do projeto é dinamica, mas a construção somente crescente. Sinta-se à vontade para explorar e volte sempre."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://manoel.reviews" # the base hostname & protocol for your site, e.g. http://example.com
 
