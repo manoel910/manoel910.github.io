@@ -1,6 +1,6 @@
 # Manoel Reviews
 
-Blog, currículo e caixa de areia. Tachyons e Jekyll.
+This site is running on [Jekyll](https://jekyllrb.com).
 
 To use Jekyll, you'll need to first install Ruby. More info on [Jekyll's installation page](https://jekyllrb.com/docs/installation/).
 
