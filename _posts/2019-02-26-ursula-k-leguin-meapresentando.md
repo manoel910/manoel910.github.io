@@ -4,7 +4,7 @@ title:  "Ursula K Le Guin se apresentando"
 date: 2019-03-06 20:53:25 -0500
 categories: tradução
 author: Ursula K Le Guin
-excerpt: A escritora experimenta com a confusão entre gêneros humanos e literários para imaginar novas formas de ser
+excerpt: A escritora experimenta com a confusão entre gêneros humanos e literários, inflamando a imaginação de alternativas mais esperançosas 
 tags: scific, grandes
 ---
 
