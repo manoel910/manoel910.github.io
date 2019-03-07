@@ -4,7 +4,7 @@ title:  "Ursula Le Guin se apresenta"
 date: 2019-03-06 20:53:25 -0500
 categories: tradução
 author: Ursula K Le Guin
-excerpt: A escritora experimenta com a confusão entre gêneros humanos e literários, inflamando a imaginação de alternativas mais esperançosas 
+excerpt: A escritora construiu a tradição da ficção especulativa em experimentos como esse, pela radical imaginação de formas de vida mais esperançosas
 tags: scific, grandes
 ---
 
