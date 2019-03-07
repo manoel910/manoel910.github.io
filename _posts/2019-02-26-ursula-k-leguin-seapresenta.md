@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Ursula K Le Guin se apresentando"
+title:  "Ursula K Le Guin se apresenta"
 date: 2019-03-06 20:53:25 -0500
 categories: tradução
 author: Ursula K Le Guin
