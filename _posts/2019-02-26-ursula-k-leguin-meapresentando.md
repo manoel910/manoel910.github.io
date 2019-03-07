@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Ursula K Le Guin se apresentando"
-date: 2019-02-26 20:53:25 -0500
+date: 2019-03-06 20:53:25 -0500
 categories: tradução
 author: Ursula K Le Guin
-excerpt: A precursora da ficção científica moderna é homem
+excerpt: A escritora experimenta com a confusão entre gêneros humanos e literários para imaginar mundos possíveis. 
 tags: scific, grandes
 ---
 
