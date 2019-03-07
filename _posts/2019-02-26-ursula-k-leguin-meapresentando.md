@@ -4,11 +4,11 @@ title:  "Ursula K Le Guin se apresentando"
 date: 2019-03-06 20:53:25 -0500
 categories: tradução
 author: Ursula K Le Guin
-excerpt: A escritora experimenta com a confusão entre gêneros humanos e literários para imaginar mundos possíveis. 
+excerpt: A escritora experimenta com a confusão entre gêneros humanos e literários para imaginar novas formas de ser
 tags: scific, grandes
 ---
 
-**Me Apresentando** (Publicado originalmente no segundo volume da revista Left Bank em 1992, sob o título *Introducing Myself*. Traduzido por Manoel e revisado por Millena Machado)
+**Me Apresentando** (Publicado originalmente no segundo volume da revista Left Bank em 1992, sob o título *Introducing Myself*. Tradução de Manoel, gentilmente revisada por Millena Machado)
 
 Eu sou um homem. Você pode estar achando que errei algo bobo em relação a gêneros ou que estou tentando te enganar, porque meu primeiro nome termina na letra A, e eu tenho três sutiãs, estive grávida cinco vezes, e outras dessas coisas que você pode ter notado, pequenos detalhes. Mas detalhes não importam. Se temos algo a aprender com políticos é que os detalhes não importam. Eu sou um homem, e quero que você acredite nisso e o aceite como fato, assim como eu fiz por muitos anos.
 
