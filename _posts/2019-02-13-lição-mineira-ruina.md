@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lições da inevitável ruína"
+title:  "Uma lição mineira sobre a ruína da exploração"
 date: 2019-02-12 20:53:25 -0500
 categories: escrita
 author: Manoel Davi Carneiro
