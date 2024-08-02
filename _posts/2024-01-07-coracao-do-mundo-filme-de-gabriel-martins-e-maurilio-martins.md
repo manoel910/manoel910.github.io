@@ -1,0 +1,25 @@
+---
+id: 508
+title: 'Resenho Coração do Mundo, filme de Gabriel Martins e Maurilio Martins'
+date: '2024-01-07T21:08:28-03:00'
+author: manoel910d
+layout: post
+guid: 'https://mdcarneiro.com.br/?p=508'
+permalink: /coracao-do-mundo-filme-de-gabriel-martins-e-maurilio-martins/
+ao_post_optimize:
+    - 'a:6:{s:16:"ao_post_optimize";s:2:"on";s:19:"ao_post_js_optimize";s:2:"on";s:20:"ao_post_css_optimize";s:2:"on";s:12:"ao_post_ccss";s:2:"on";s:16:"ao_post_lazyload";s:2:"on";s:15:"ao_post_preload";s:0:"";}'
+image: 'http://mdcarneiro.com.br/wp-content/uploads/2024/03/IMG_6658.jpg'
+categories:
+    - resenho
+---
+
+```
+CANNETIERI, Thiago. <a href="http://revistaportoalegre.com/uma-maldicao-tropical-notas-sobre-o-devir-periferia-do-mundo/">Uma maldição tropical: notas sobre o devir-periferia do mundo.</a> na Revista Porto Alegre 
+VIANA, Diego. <a href="https://vianadiego.wordpress.com/2020/10/17/do-empobrecimento-um-esboco/">Do empobrecimento: um esboço.</a> Blog pessoal 
+```
+
+Na periferia de Contagem, cidade localizada na região metropolitana de Belo Horizonte, a vida cotidiana é retratada no filme, onde atores amadores e profissionais se misturam em uma história que amplifica os conflitos existenciais e materiais, culminando em um desfecho violento que representa uma tentativa frustrada de mudança. O bairro retratado é empobrecido e constantemente marginalizado, resultando no afastamento crescente dos pobres. Um exemplo disso é a cena em que a motorista do ônibus menciona que conseguiu comprar uma casa, porém, mais distante do centro do que o já distante Laguna, onde moram. A vida de Ana, interpretada por Kelly Crifer, é marcada por movimento constante. Ela trabalha como cobradora de ônibus, viajando do bairro ao centro indefinidamente. Em casa, cuida de seu pai idoso, trocando suas fraldas, servindo suas refeições e fazendo sua barba. No final, é ela quem concorda em participar do assalto. Selma, interpretada por Grace Passô, é uma mulher negra que sobrevive de trabalhos temporários e fotografa os alunos da escola local. No entanto, ela está determinada a retornar para a cidade onde sua mãe vive e, para isso, vende seu carro para Rose. Com o objetivo de juntar algum dinheiro, planeja o assalto. Ela recebe uma dica de uma amiga rica, que mostra quais pessoas possuem objetos de valor em suas casas. Rose, interpretada por Bárbara Colen, é dona de um salão de beleza e pretende comprar o carro de Selma para trabalhar como motorista de Uber, como muitos outros estão fazendo como uma forma de trabalho extra. Ela já trabalhou como cobradora de ônibus, assim como Ana, mas apenas por seis meses, não por três anos. Por outro lado, os personagens masculinos do filme carecem de profundidade, mas em geral têm uma afinidade com um estilo de vida mais descompromissado, com exceção do amante de Rose, que é um trabalhador em uma loja de roupas local.
+
+A mobilidade do trabalho é uma realidade imposta aos migrantes pela precarização dos espaços, que os expulsa devido à falta de sustento. Essa mobilidade é orientada por políticas públicas que procuram distribuir as fontes de renda e permitem que a população encontre seu próprio caminho. A liberdade de se vender ao capital é criada pela falta de opções. O capitalismo se apresenta como uma nova era da produção social, onde a mobilidade da força de trabalho é fundamental para sua existência. Essa mobilidade é impulsionada pela busca de emprego e está diretamente ligada à gênese e ao desenvolvimento do capitalismo. No entanto, o processo de expropriação não se encerra aí. O trabalhador expropriado passa por diversos processos antes de se tornar força de trabalho efetiva. É nesse momento que surgem diversos regulamentos, como o sistema de educação e formação profissional, que selecionam quais pessoas são consideradas aptas a servir como trabalhadores para o capital. Um programa de pesquisa sobre a mobilidade do trabalho investiga como as questões migratórias estão relacionadas ao trabalho e ao espaço, revelando as práticas de subordinação e controle exercidas pelo capital. As políticas migratórias são alvo de críticas, pois muitas vezes são justificadas em nome da melhoria das condições de vida das populações de baixa renda, desenvolvimento econômico ou redução de desequilíbrios regionais. No entanto, para o trabalhador que se torna peça de um jogo cujas regras desconhece, pouco importa a justificativa utilizada.
+
+A política migratória é sempre, mesmo que inconscientemente, um discurso sobre o trabalho e o espaço, sobre o trabalho no espaço e sobre o lugar do trabalho na sociedade. Ela aciona evidências empíricas, mobiliza ciências, invoca legitimidades e propõe eficácias. O município de Contagem, cujo nome faz referência à contagem de cabeças de gado, escravos e mercadorias taxadas em um posto de fiscalização, foi escolhido para ser um polo industrial do Estado durante a expansão
